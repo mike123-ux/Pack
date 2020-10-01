@@ -5,4 +5,4 @@ def check(a):
     print("a is smaller than 234)
   
 
-#function is python
+#function in python
